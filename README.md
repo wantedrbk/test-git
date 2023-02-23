@@ -1,2 +1,2 @@
 # Git Course Github 
-notifications 3
+notificationss 3
