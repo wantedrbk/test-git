@@ -6,3 +6,4 @@ changed on github manually for testing merge
 12345
 123456
 1234567
+12345678
